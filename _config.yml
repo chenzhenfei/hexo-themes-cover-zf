@@ -1,7 +1,12 @@
 menu:
   Home: /
+  Dubbo: /dubbo
+  #Spring Boot: /spring boot
+  #Spring Cloud: /spring cloud
+  #Java : /java
+  About : /about
   Archives: /archives
-
+  
 widgets:
 - search
 
